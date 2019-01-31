@@ -1,0 +1,9 @@
+<resources>
+    <string name="rating_dialog_experience">Come valuti la tua esperienza con noi?</string>
+    <string name="rating_dialog_maybe_later">Più tardi</string>
+    <string name="rating_dialog_never">Mai</string>
+    <string name="rating_dialog_feedback_title">Feedback</string>
+    <string name="rating_dialog_submit">Invia</string>
+    <string name="rating_dialog_cancel">Annulla</string>
+    <string name="rating_dialog_suggestions">Facci sapere cosa non è andato e lavoreremo per migliorare!</string>
+</resources>
